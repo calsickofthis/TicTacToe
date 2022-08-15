@@ -1,3 +1,5 @@
+![What this application looks like](https://github.com/calsickofthis/TicTacToe/blob/main/tictactoe.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
